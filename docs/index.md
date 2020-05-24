@@ -25,11 +25,12 @@ The documentation for EvBoo is seperated into two sections, one for users of EvB
 
 Click the link below to follow the correct section.
 
+![Participants](/images/child.png)
+
 <table>
     <tr>
         <td width="50%" style="text-align:center">
             Group Leaders, Service Team and Staff Team Members
-
 ![Participants](/images/child.png)
         </td>
         <td width="50%" style="text-align:center">
