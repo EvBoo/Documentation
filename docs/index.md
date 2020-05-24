@@ -25,7 +25,7 @@ The documentation for EvBoo is seperated into two sections, one for users of EvB
 
 Click the link below to follow the correct section.
 
-![Participants](/images/child.png)
+![Participants](/Documentation/images/child.png)
 
 <table>
     <tr>
