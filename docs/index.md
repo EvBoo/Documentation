@@ -25,16 +25,15 @@ The documentation for EvBoo is seperated into two sections, one for users of EvB
 
 Click the link below to follow the correct section.
 
-![Participants](/Documentation/images/child.png)
-
 <table>
     <tr>
         <td width="50%" style="text-align:center">
             Group Leaders, Service Team and Staff Team Members
-![Participants](/images/child.png)
+                <img src="/Documentation/images/child.png" alt="Participants">
         </td>
         <td width="50%" style="text-align:center">
             Event Administrators
+                <img src="/Documentation/images/gear.png" alt="Event Administrators">
         </td>
     </tr>
 </table>
