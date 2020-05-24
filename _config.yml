@@ -7,4 +7,4 @@ logo: "/images/Cluster.png"
 
 # Exclude the main readme.md file
 
-exclude: "/readme.md"
+exclude: "/README.md"
