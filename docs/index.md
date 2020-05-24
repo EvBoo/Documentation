@@ -29,11 +29,11 @@ Click the link below to follow the correct section.
     <tr>
         <td width="50%" style="text-align:center">
             Group Leaders, Service Team and Staff Team Members
-                <img src="/Documentation/images/child.png" alt="Participants">
+                <img src="/Documentation/images/child.png" alt="Participants" style="height:180px;width=180px;">
         </td>
         <td width="50%" style="text-align:center">
             Event Administrators
-                <img src="/Documentation/images/gear.png" alt="Event Administrators">
+                <img src="/Documentation/images/gear.png" alt="Event Administrators"  style="height:180px;width=180px;">
         </td>
     </tr>
 </table>
