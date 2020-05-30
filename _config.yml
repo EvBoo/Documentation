@@ -1,6 +1,6 @@
 title: EvBoo Documentation
 
-remote_theme: readthedocs/sphinx_rtd_theme
+remote_theme: readthedocs/sphinx_rtd_theme123
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/images/Cluster.png"
