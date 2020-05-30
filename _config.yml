@@ -5,6 +5,24 @@ remote_theme: readthedocs/sphinx_rtd_theme
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/images/Cluster.png"
 
+# Specific to this theme
+site_author: EvBoo Limited
+repo_url: 'https://github.com/carlosperate/jekyll-theme-rtd'
+edit_on_github: true
+github_docs_folder: true
+site_favicon: 'https://www.evboo.co.uk/favicon.ico'
+sticky_navigation: true
+prev_next_buttons_location: None
+prev_next_buttons_location: top
+prev_next_buttons_location: bottom
+prev_next_buttons_location: both
+search_enabled: true
+# google_analytics: UA-XXXXX-Y
+# google_analytics_anonymize_ip: true
+# The highlight.js library provides 79 different colours for their syntax highlighting. The default is github-gist.
+hljs_style: github-gist
+
+
 # Exclude the main readme.md file
 
 exclude: "/README.md"
