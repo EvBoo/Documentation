@@ -7,7 +7,7 @@ logo: "/images/Cluster.png"
 
 # Specific to this theme
 site_author: EvBoo Limited
-repo_url: 'https://github.com/carlosperate/jekyll-theme-rtd'
+repo_url: 'https://github.com/EvBoo/Documentation'
 edit_on_github: true
 github_docs_folder: true
 site_favicon: 'https://www.evboo.co.uk/favicon.ico'
