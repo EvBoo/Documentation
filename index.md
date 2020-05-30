@@ -1,1 +1,1 @@
-Click <a href="./docs">here</>
+Click <a href="./docs">here</a>
